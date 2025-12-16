@@ -10,7 +10,7 @@ Don't just read the summary—read the architecture:
 
 1. **[The Problem Analysis](Concept/Whats_the_problem.md)** *Why Europe spends more than Netflix but gets less scaling.*
    
-2. **[The Architecture Proposal](Concept/What_i_propose.md)** *The "Weimar Triangle" Backbone, BaaS model, and Open Source stack.*
+2. **[The Architecture Proposal](Concept/What_I_propose.md)** *The "Weimar Triangle" Backbone, BaaS model, and Open Source stack.*
 
 ---
 
