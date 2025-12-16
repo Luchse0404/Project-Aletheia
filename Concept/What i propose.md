@@ -1,3 +1,5 @@
+<!--What I propose.md-->
+
 # What I Propose — A Modernized European Public Broadcasting Stack
 
 Aletheia is a European-scale public broadcasting technology platform that consolidates infrastructure — not editorial control — into a shared sovereign backbone.
@@ -110,7 +112,7 @@ AI flags — humans decide.
 
 ### Tier 2 — Strategic Premium Licensing
 - Sports rights, cinema, marquee events
-- EBU acts as purchasing cartel
+- EBU acts as a purchasing cartel
 - Rights: Stream, time-limited, DRM
 
 Come for the football — stay for the Parliament.
