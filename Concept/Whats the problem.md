@@ -11,7 +11,7 @@ The era of national broadcast monopolies is over. Global platforms like Netflix,
 * **Scale:** National broadcasters cannot compete with the economies of scale of US tech giants. A proprietary player developed for 5 million users is mathematically inferior to one developed for 500 million.
 * **Demographics:** Younger audiences do not differentiate between "TV" and "Internet". They expect instant access, high resolution (4K), and barrier-free usability. The current "Mediathek" model feels archaic and user-hostile compared to commercial streaming UX.
 
-# What I assume will happen if we don't reform the public broadcasting in europe
+# What I assume will happen if we don't reform public broadcasting in Europe
 If we continue with the status quo, European public media will face a slow descent into irrelevance.
 * **Loss of Sovereignty:** We will become dependent on US and Chinese algorithms to reach our own citizens.
 * **The "Museum" Effect:** Public broadcasters will become archives for an aging population, while the youth consumes exclusively commercial, algorithm-driven content.
