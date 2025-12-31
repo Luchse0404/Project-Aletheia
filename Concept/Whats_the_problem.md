@@ -23,8 +23,8 @@ The common narrative is that Public Service Media (PSM) is underfunded. The hard
 According to the European Broadcasting Union (EBU), the combined operating revenues of PSM in the EBU area amounted to **€40 billion in 2023**[^1].
 When we compare this to the audited financial statements of the global market leader, Netflix, a startling reality emerges:
 
-* **Netflix Total Revenue (2024):** ~$39.0 Billion[^2]
-* **Netflix Global Content Spend (Cash, 2024):** ~$16.2 Billion[^2]
+* **Netflix Total Revenue (2025):** ~$39.0 Billion[^2]
+* **Netflix Global Content Spend (Cash, 2025):** ~$16.2 Billion[^2]
 * **European PSM Combined Budget:** **€40.0 Billion**[^1]
 
 **Conclusion:** The European public media system has a larger total budget than Netflix generates in revenue. We are better funded than the Silicon Valley giant. This is not a call to imitate Netflix’s editorial strategy — only to acknowledge the structural efficiency of scaling shared technological infrastructure.
